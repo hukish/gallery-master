@@ -58,3 +58,8 @@ To install the requirements from `requirements.txt` file,
    ```prettier
    pip install -r requirements.txt
    ```
+
+##### 6.Run the app
+To run the application on your development machine, 
+
+    python3 manage.py runserve
