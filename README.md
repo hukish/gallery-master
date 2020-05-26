@@ -14,7 +14,7 @@ Hukishgallery is a personal gallery django application that allows users display
 Clone the the repository by running 
 
    ```bash
-   git clone https://github.com/kamauvick/PicsGarage.git
+   git clone https://github.com/hukish/gallery_master.git
    ```
  or download a zip file of the project from github
  
@@ -22,4 +22,21 @@ Clone the the repository by running
 Navigate to the project directory
 ```bash
 cd PicsGarage
-```
+`
+##### 2. Create a virtual environment
+ Install `Virtualenv` 
+
+   ```prettier
+   pip install virtualenv
+   ```
+
+To create a virtual environment named `virtual`, run
+
+   ```prettier
+   virtualenv virtual
+   ```
+To activate the virtual environment we just created, run
+
+   ```bash
+   source virtual/bin/activate
+   ```
