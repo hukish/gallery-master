@@ -95,3 +95,7 @@ There are no know bugs at the mom
 * Push changes to github
 * Create a pull request
 
+## Contacts
+Reach me on:
+>Email:  hudsonhukish@gmail.com
+
