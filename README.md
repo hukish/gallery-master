@@ -40,3 +40,15 @@ To activate the virtual environment we just created, run
    ```bash
    source virtual/bin/activate
    ```
+
+
+
+##### 3. Create a database
+You'll need to create a new postgress database, Type the following command to access postgress
+   ```bash
+    $ psql
+   ```
+   Then run the following query to create a new database named ```photo``` 
+   ```prettier
+   # create database photo
+   ```
