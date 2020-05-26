@@ -89,3 +89,9 @@ There are no know bugs at the mom
 [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](http://opensource.org/licenses/MIT)
 >MIT license &copy;  2020 Hukish
 
+## Collaboration Information
+* Clone the repository
+* Make changes and write tests
+* Push changes to github
+* Create a pull request
+
