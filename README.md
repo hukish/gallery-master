@@ -85,3 +85,7 @@ To run the application on your development machine,
 ## Bugs
 There are no know bugs at the mom
 
+## License
+[![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](http://opensource.org/licenses/MIT)
+>MIT license &copy;  2020 Hukish
+
