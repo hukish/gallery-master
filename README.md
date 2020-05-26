@@ -6,3 +6,20 @@
 
 ## Description
 Hukishgallery is a personal gallery django application that allows users display their photos for others to see.
+
+## Setup Instructions:
+### Requirements
+
+##### 1. Clone the repository
+Clone the the repository by running 
+
+   ```bash
+   git clone https://github.com/kamauvick/PicsGarage.git
+   ```
+ or download a zip file of the project from github
+ 
+
+Navigate to the project directory
+```bash
+cd PicsGarage
+```
