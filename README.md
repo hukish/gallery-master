@@ -52,3 +52,9 @@ You'll need to create a new postgress database, Type the following command to ac
    ```prettier
    # create database photo
    ```
+#####  4.Install dependencies
+To install the requirements from `requirements.txt` file,
+
+   ```prettier
+   pip install -r requirements.txt
+   ```
