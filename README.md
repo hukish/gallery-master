@@ -81,3 +81,7 @@ To run the application on your development machine,
 - [X] Copy a link to the photo to share with my friends.
 - [X] View photos based on the location they were taken.
 
+
+## Bugs
+There are no know bugs at the mom
+
