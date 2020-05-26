@@ -63,3 +63,11 @@ To install the requirements from `requirements.txt` file,
 To run the application on your development machine, 
 
     python3 manage.py runserve
+
+## Technologies Used
+* Django
+* Python
+* Html
+* Css
+* Javascript
+* Bootstrap
